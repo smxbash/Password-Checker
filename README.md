@@ -11,9 +11,12 @@ It validates if the password contains:
 
 
 ## How to Run
-``` chmod +x password-checker.sh
-./password-checker.sh
-```
+Run this command to make it executable
+``chmod +x password-checker.sh``
+
+Execute it with this command
+
+``./password-checker.sh``
 
 ## Requirements
 
