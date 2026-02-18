@@ -12,7 +12,7 @@ It validates if the password contains:
 
 ## How to Run
 ```chmod +x password-checker.sh
-./password-checker.sh```
+./password-checker.sh ```
 
 ## Requirements
 
