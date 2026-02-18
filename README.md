@@ -3,11 +3,11 @@ This script shows if the password is secure or not
 
 It validates if the password contains:
 
-At least 8 characters
-At least one uppercase letter
-At least one lowercase letter
-At least one number
-At least one special character
+- At least 8 characters
+- At least one uppercase letter
+- At least one lowercase letter
+- At least one number
+- At least one special character
 
 
 ## How to Run
@@ -16,21 +16,21 @@ chmod +x password-checker.sh
 
 ## Requirements
 
-Linux operating system
+- Linux operating system
 
-Bash shell
+- Bash shell
 
 ## What I Improved with this project
 
-Bash conditionals (if, else)
+- Bash conditionals (if, else)
 
-Loops (while)
+- Loops (while)
 
-Regex basics
+- Regex basics
 
-Input validation
+- Input validation
 
-User interaction in terminal
+- User interaction in terminal
 
 ## Project Goal
 
